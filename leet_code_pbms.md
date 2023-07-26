@@ -28,4 +28,6 @@ Problems on Array
 
 [https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/) - 20/07/23
 
-<https://leetcode.com/problems/peak-index-in-a-mountain-array/>
+[https://leetcode.com/problems/peak-index-in-a-mountain-array/](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+
+[https://leetcode.com/problems/running-sum-of-1d-array/](https://leetcode.com/problems/running-sum-of-1d-array/) - 26/07/23
